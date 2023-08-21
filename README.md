@@ -8,7 +8,7 @@
 
 🛡️ **Cybersecurity Connoisseur**: With a passion for keeping the digital world secure, I bring a unique blend of offensive and defensive skills to the table. My mission: to fortify systems against cyber threats.
 
-🌐 **Top Industry Specialist**: As a recognized authority in the field, I've earned five major hacking certifications that reflect my dedication to mastering the craft of ethical hacking and penetration testing.
+🌐 **Top Industry Specialist**: As a recognized authority in the field, I've earned five major hacking certifications that reflect my dedication to mastering the craft of ethical hacking and penetration testing those inlude the OSCP, CEH, GPEN, PenTest+, and CPTS.
 
 ## My Arsenal
 
